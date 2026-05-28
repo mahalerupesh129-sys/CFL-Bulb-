@@ -6,7 +6,7 @@ A detailed 3D model of a **Compact Fluorescent Lamp (CFL) Bulb** designed using 
 
 ## 📸 Preview
 
-![CFL Bulb 3D Model](CFL Bulb .png)
+![CFL Bulb 3D Model](CFL%20Bulb%20.png)
 
 > *SolidWorks 3D model of a CFL bulb showing the spiral tube and threaded base.*
 
